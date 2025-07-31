@@ -1,6 +1,7 @@
 🎯 AIM
 
 To explore the use of for, while, and do while loops in C++ for automating repetitive tasks, implementing algorithms, and optimizing control flow in applications.
+
 📚 THEORY
 
 Loops in C++ are control flow structures that allow repeated execution of a block of code. They are fundamental in programming for:
